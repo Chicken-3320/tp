@@ -11,8 +11,6 @@ This thesis builds a practical pipeline to **predict BER, CO₂ emissions, and e
   <img src="https://drive.google.com/uc?export=view&id=1zB4zh0RqXk-fdiXvca9Lr7GNP0Wrw_Cq" alt="Thesis figure or workflow" />
 </p>
 
-*If the image doesn’t load, make sure the Drive file is shared as “Anyone with the link – Viewer”.*
-
 ---
 
 ## Highlights
